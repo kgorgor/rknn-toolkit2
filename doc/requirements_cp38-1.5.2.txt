@@ -20,4 +20,4 @@ onnxoptimizer==0.2.7
 onnxruntime==1.14.0
 torch==1.10.1
 torchvision==0.11.2
-tensorflow==2.8.0
+tensorflow==2.7.0
